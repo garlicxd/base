@@ -30,7 +30,7 @@ public class TrainUserImpl implements TrainUser {
 
 	@Override
 	public void setSpeedLimit(int sl) {
-		contoller.setSpeedLimit(sl);
+		controller.setSpeedLimit(sl);
 	}
 
 }
